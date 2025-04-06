@@ -30,5 +30,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/ruhai-lin?label=Follow&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ruhai-lin?label=Stars&style=for-the-badge&color=brightgreen" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=ruhai-lin&style=for-the-badge&color=violet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ruhai-lin&style=for-the-badge&color=yellow" alt="Profile Views" />
 </p>
+
