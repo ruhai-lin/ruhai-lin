@@ -18,7 +18,7 @@
 <!-- 🧑‍💻 简短自我介绍 -->
 <p align="center">
   🎓 I’m a senior undergraduate student at UC Santa Cruz.<br>
-  💡 I'm interested in energy-efficient, secure, and robust AI acceleration through co-design of software and hardware.
+  💡 I'm interested in Energy-efficient, Secure, and Robust AI Acceleration through Hardware Software Co-Design.
 </p>
 
 <!-- 📊 GitHub 动态数据 -->
