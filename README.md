@@ -2,12 +2,12 @@
 
 <!-- 🔤 多行动态打字效果 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hello+There%2C+This+Is+Ruhai;You+Found+Ruhai's+GitHub;Sudo+Welcome" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hello+There%2C+This+Is+Ruhai;Sudo+Welcome" alt="Typing SVG" />
 </p>
 
 <!-- 🌐 社交链接 -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruhai-lin](https://www.linkedin.com/in/ruhai-lin-879931229" target="_blank">
+  <a href="https://www.linkedin.com/in/ruhai-lin-879931229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://scholar.google.com/citations?user=JfmfsWgAAAAJ&hl" target="_blank">
@@ -30,5 +30,5 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/ruhai-lin?label=Follow&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ruhai-lin?label=Stars&style=for-the-badge&color=brightgreen" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=ruhai-lin&style=for-the-badge&color=purple" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ruhai-lin&style=for-the-badge&color=violet" alt="Profile Views" />
 </p>
