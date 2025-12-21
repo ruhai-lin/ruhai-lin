@@ -22,14 +22,14 @@
       
 <h3>👨‍💻 About Me</h3>
 
-> 🎓 **First Year PhD Student** in Computer Engineering at **UC Santa Cruz**.
+> 🎓 **First Year PhD Student** in Electrical and Computer Engineering at **UC Santa Cruz**.
 
-I focus on **Hardware-Software Co-Design** for AI systems. My research involves optimizing deep learning algorithms for specialized hardware architectures, ensuring energy efficiency and robustness.
+I build end-to-end intelligent systems, focusing on the vertical integration of **AI models**, **hardware acceleration**, and **custom LLM execution platforms**. My expertise spans the entire stack: from writing high-performance **Triton/CUDA kernels** to designing custom **ASIC/FPGA architectures** and **high-speed PCBs** optimized for LLM inference clusters.
 
-**🔭 Research Interests:**
-* **Digital IC Design:** High-performance ASIC for Transformer/LLM.
-* **Efficient AI:** Model Quantization, Sparsity, and HW-aware Neural Architecture Search.
-* **System Reliability:** Robust hardware design against environmental noise and attacks.
+**🔭 Current Research & Engineering Focus:**
+* **🚀 LLM Systems & Inference Infra:** Optimizing inference nodes through **Prefill/Decode & Attn/FFN disaggregation**; implementing low-latency operators via **Triton/CUDA**.
+* **⚡ Hardware Acceleration & Silicon:** Designing specialized **Neural Accelerators** on FPGA/ZYNQ and ASIC architectures; designing **High-Speed PCBs** to serve as dedicated hardware platforms for LLM execution.
+* **🌐 Interconnect & System Scaling:** Profiling **KV-cache** behaviors and optimizing high-performance node interconnects for large-scale language model deployment.
 
 <br/>
 
