@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003262,100:FDB515&height=240&section=header&text=Ruhai%20Lin&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Hardware-Software%20Co-Design%20%7C%20Efficient%20AI&descAlignY=60&descSize=24&animation=fadeIn&fontStyle=sans-serif" width="100%" />
 
 <p align="center">
-  <a href="mailto:rlin50@ucsc.edu">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rlin50@ucsc.edu" target="_blank">
+  <img src="https://img.shields.io/badge/rlin50@ucsc.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
     <img src="https://img.shields.io/badge/rlin50@ucsc.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/ruhai-lin-879931229/" target="_blank">
